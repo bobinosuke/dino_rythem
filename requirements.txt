@@ -1,0 +1,5 @@
+pygame
+librosa
+numpy<2
+yt-dlp
+soundfile
